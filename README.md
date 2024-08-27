@@ -13,5 +13,4 @@ What about Qemu?
 There are also tutorials on YouTube about it.
 ex: qemu-system-x86_64 -drive format=raw, file=bootmgr.bin
 
-ZylonkOS TM 2024
-All rights reserved.
+ZylonkOS TM 2024.
